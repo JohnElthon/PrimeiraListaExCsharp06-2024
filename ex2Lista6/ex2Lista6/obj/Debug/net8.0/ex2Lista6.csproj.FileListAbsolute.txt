@@ -1,0 +1,14 @@
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\bin\Debug\net8.0\ex2Lista6.exe
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\bin\Debug\net8.0\ex2Lista6.deps.json
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\bin\Debug\net8.0\ex2Lista6.runtimeconfig.json
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\bin\Debug\net8.0\ex2Lista6.dll
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\bin\Debug\net8.0\ex2Lista6.pdb
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.AssemblyInfo.cs
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.dll
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\refint\ex2Lista6.dll
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.pdb
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ex2Lista6.genruntimeconfig.cache
+C:\Users\debor\source\repos\ex2Lista6\ex2Lista6\obj\Debug\net8.0\ref\ex2Lista6.dll
